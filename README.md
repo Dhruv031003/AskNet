@@ -1,4 +1,4 @@
-# FORUM
+# ASKNET
 This is a website made to ask and answer questions related to any topic.
   - This website is made using HTML, CSS and Bootstrap as frontend.
   - PHP is used as Backend.
